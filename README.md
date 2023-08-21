@@ -20,6 +20,6 @@ Built with
 
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Kafka22)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Kafka22)
 
 
